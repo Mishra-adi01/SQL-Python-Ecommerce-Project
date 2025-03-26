@@ -1,7 +1,7 @@
 # SQL-Python-Ecommerce-Project
 
-About This Project
-Hey there! This project is all about diving into e-commerce data to figure out what's happening behind the scenes—think customer behavior, sales patterns, and product performance. With a mix of Python and SQL, I've worked on making sense of raw data to pull out insights that can actually make a difference.
+
+This project is all about diving into e-commerce data to figure out what's happening behind the scenes—think customer behavior, sales patterns, and product performance. With a mix of Python and SQL, I've worked on making sense of raw data to pull out insights that can actually make a difference.
 
 What's Inside?
 Combining Data: Pulled together information from different sources like databases and CSV files.
